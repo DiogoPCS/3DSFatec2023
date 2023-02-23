@@ -1,0 +1,15 @@
+:root {
+    --primary-color: #8C1F28;
+    --secondary-color: #591C21;
+    --tertiary-color: #044040;
+    --quaternary-color: #D92525;
+    --quinary-color: #F2F2F2;
+    --light-color: white;
+    --dark-color: rgb(28, 28, 28);
+    --grey-color: #7d7d7d;
+    --extra-small-size: 4px;
+    --small-size: 8px;
+    --medium-size: 16px;
+    --large-size: 32px;
+    --extra-large-size: 64px;
+}
